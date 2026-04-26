@@ -2,6 +2,13 @@
 
 Suwerenne i wiarygodne AI - Od dokumentów firmowych do inteligentnej bazy wiedzy w oparciu o model Bielik i Google Cloud.
 
+## Wprowadzenie
+
+Tworzymy szkoleniową bazę RAG dla fikcyjnego hotelu Bielik w Warszawie, aby model mógł odpowiadać na pytania gości dotyczące pobytu, usług i organizacji obiektu.
+Do bazy dodaliśmy informacje o nazwie hotelu, adresie, dojeździe, kontakcie z recepcją, WiFi oraz kluczowych numerach do zespołów wsparcia.
+Rozszerzyliśmy także wiedzę o historii hotelu od 1920 roku, ofercie gastronomicznej, udogodnieniach oraz wizerunku obiektu jako przyjaznego i komfortowego miejsca.
+Całość ma charakter realistyczny, ale została przygotowana jako materiał treningowy, z fikcyjnymi wpisami i chronologią gości specjalnych na potrzeby testów systemu.
+
 ## O projekcie
 
 Niniejsze repozytorium prezentuje kompletne, bezserwerowe (serverless) rozwiązanie klasy RAG (Retrieval-Augmented Generation) wdrożone w chmurze Google Cloud. Głównym celem aplikacji jest dostarczenie wydajnego i suwerennego inteligentnego asystenta zdolnego do odpowiadania na pytania użytkownika w oparciu o dedykowaną bazę wiedzy (np. wewnętrzne dokumenty, regulaminy).
