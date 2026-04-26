@@ -281,6 +281,9 @@ Jak postąpić, gdy sejf się zablokuje i gość nie pamięta hasła?
  ```bash
 Jak dojechać do hotelu z lotniska Chopina lub Dworca Centralnego?
    ```
+ ```bash
+Kiedy powstał hotel?
+ ```
 
 
 
