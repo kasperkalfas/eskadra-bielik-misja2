@@ -264,5 +264,21 @@ Aby otworzyć interfejs graficzny testowej aplikacji z poziomu Twojego projektu:
 2. Po otwarciu opublikowanej strony w Twojej przeglądarce internetowej, wpisz w okno dialogowe dowolne zapytanie (np. "Do której godziny jest otwarty basen?") i kliknij "Zapytaj".
 3. Porównaj strumień odpowiedzi wyświetlany dla samej bazy wiedzy modelu (bez dodatkowego kontekstu) z bogatszą odpowiedzią RAG wygenerowaną w oparciu o wiedzę z przeszukiwania BigQuery Vector Search.
 
+ ```bash
+Jakie jest hasło do WiFi dla gości hotelowych?
+   ```
+ ```bash
+Pod jaki numer zadzwonić na recepcję w razie problemu?
+   ```
+ ```bash
+Co powinien zrobić gość, jeśli zgubi kartę do pokoju?
+   ```
+ ```bash
+Jak postąpić, gdy sejf się zablokuje i gość nie pamięta hasła?
+   ```
+ ```bash
+Jak dojechać do hotelu z lotniska Chopina lub Dworca Centralnego?
+   ```
+
 
 
