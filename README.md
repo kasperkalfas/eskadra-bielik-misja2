@@ -285,5 +285,24 @@ Jak dojechać do hotelu z lotniska Chopina lub Dworca Centralnego?
 Kiedy powstał hotel?
  ```
 
+## Jak otrzymać certyfikat Eskadry Bielika?
+
+Wyślij e-mail na adres hello@cloudkasper.pro w tytule napisz Twoje imię i nazwisko, a w treści napisz hasło: "Majówka" ;)
+
+## Jak usunąć projekt? 
+
+Opcja 1: Usunięcie całego projektu (najbezpieczniejsze)
+Jeśli chcesz usunąć wszystko, najłatwiej jest usunąć cały projekt:
+
+ ```bash
+gcloud projects delete PROJECT_ID
+ ```
+
+Opcja 2:
+
+1) Otwórz: https://console.cloud.google.com/cloud-resource-manager
+2) Znajdź Twój projekt
+3) Kliknij na projekt → Settings → SHUT DOWN
+
 
 
