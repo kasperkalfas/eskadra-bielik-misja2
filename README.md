@@ -287,7 +287,7 @@ Kiedy powstał hotel?
 
 ## Jak otrzymać certyfikat Eskadry Bielika?
 
-Wyślij e-mail na adres hello@cloudkasper.pro w tytule napisz Twoje imię i nazwisko, a w treści napisz hasło: "Majówka" ;)
+Wyślij e-mail na adres hello@cloudkasper.pro w tytule napisz Twoje imię i nazwisko, a w treści napisz hasło: "Majówka" i zrzut z ekranu Twojego systemu;)
 
 ## Jak usunąć projekt? 
 
